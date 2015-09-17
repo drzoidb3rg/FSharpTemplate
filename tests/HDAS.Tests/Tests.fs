@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module HDAS.Tests
 
-open FSharp.ProjectTemplate
+open HDAS
 open NUnit.Framework
 
 [<Test>]
