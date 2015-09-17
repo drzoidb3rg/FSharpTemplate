@@ -17,7 +17,7 @@ function run() {
   then
     mono "$@"
   else
-    "$@"
+  "$@"
   fi
 }
 
